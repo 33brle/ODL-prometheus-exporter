@@ -1,6 +1,6 @@
 # ODL-Prometheus-exporter
 ODL exporter job for Prometheus <br> 
-Environment - Ubuntu 64-bit 22.04 <br>
+Environment - Ubuntu 24.04.1-live-server-arm64 <br>
 ODL version - 2.0.0 <br>
 Mininet - 2.3.1b4 <br> 
 
